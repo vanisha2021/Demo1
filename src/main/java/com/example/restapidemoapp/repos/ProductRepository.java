@@ -1,6 +1,6 @@
-package com.eample.restapidemoapp.repos;
+package com.example.restapidemoapp.repos;
 
-import com.eample.restapidemoapp.entities.Product;
+import com.example.restapidemoapp.entities.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product,Integer> {

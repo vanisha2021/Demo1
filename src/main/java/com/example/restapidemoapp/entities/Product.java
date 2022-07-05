@@ -1,4 +1,4 @@
-package com.eample.restapidemoapp.entities;
+package com.example.restapidemoapp.entities;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import net.bytebuddy.implementation.bytecode.constant.NullConstant;

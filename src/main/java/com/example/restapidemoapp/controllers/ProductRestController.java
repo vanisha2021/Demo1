@@ -1,7 +1,7 @@
-package com.eample.restapidemoapp.controllers;
+package com.example.restapidemoapp.controllers;
 
-import com.eample.restapidemoapp.entities.Product;
-import com.eample.restapidemoapp.repos.ProductRepository;
+import com.example.restapidemoapp.entities.Product;
+import com.example.restapidemoapp.repos.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
